@@ -23,6 +23,17 @@ Please note that:
 ![](bme280.gif)
 
 
+## DS3231
+
+![](ds3231.gif)
+
+
 ## NTC
 
 ![](ntc.gif)
+
+
+## sht21
+
+![](sht21.gif)
+
