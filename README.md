@@ -38,6 +38,10 @@ Please note that:
 ![](ds3231.gif)
 
 
+## MCP401x
+
+![](mcp401x.gif)
+
 ## NTC
 
 ![](ntc.gif)
