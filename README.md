@@ -23,6 +23,11 @@ Please note that:
 ![](bme280.gif)
 
 
+## DS1302
+
+![](ds1302.gif)
+
+
 ## DS3231
 
 ![](ds3231.gif)
