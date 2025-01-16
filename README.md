@@ -17,3 +17,7 @@ Please note that:
 
 ![](bmp280.gif)
 
+
+## NTC
+
+![](ntc.gif)
