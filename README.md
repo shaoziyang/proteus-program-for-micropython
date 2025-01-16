@@ -42,9 +42,15 @@ Please note that:
 
 ![](mcp401x.gif)
 
+
 ## NTC
 
 ![](ntc.gif)
+
+
+## PCF8563
+
+![](pcf8563.gif)
 
 
 ## sht21
