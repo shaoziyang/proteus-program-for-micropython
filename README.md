@@ -15,6 +15,13 @@ A 16x2 (16 columns and 2 rows) liquid crystal display (LCD) using the I2C protoc
 ![](i2c_lcd1620.gif)
 
 
+## LCD1602 bigfont
+
+show big digitals in LCD1602
+
+![](lcd1602_bigdigit.gif)
+
+
 ## bmp280
 
 Digital, barometric pressure sensor.
