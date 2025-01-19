@@ -57,6 +57,13 @@ extremely accurate I²C real-time clock.
 ![](ds3231.gif)
 
 
+## INA219
+
+26V 12bits I2C output digital power monitor
+
+![](ina219.gif)
+
+
 ## MCP401x
 
 Single-channel, 7-bit, volatile digital potentiometer with I2C interface.
