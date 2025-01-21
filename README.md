@@ -8,6 +8,16 @@ Please note that:
 
 ---
 
+
+## Display
+
+## LCD1602
+
+LCD character 16x2 display
+
+![](lcd1602.gif)
+
+
 ## I2C LCD1602
 
 A 16x2 (16 columns and 2 rows) liquid crystal display (LCD) using the I2C protocol.
@@ -22,12 +32,22 @@ show big digitals in LCD1602
 ![](lcd1602_bigdigit.gif)
 
 
-## LCD1602
+## neopixel
 
-LCD character 16x2 display
+NeoPixel/WS2812 addressable LED.
 
-![](lcd1602.gif)
+![](neopixel.gif)
 
+
+## TM1637
+
+7-segment LED display.
+
+![](tm1637.gif)
+
+
+
+## Sensor
 
 ## bmp280
 
@@ -42,6 +62,37 @@ Humidity sensor measuring relative humidity, barometric pressure and ambient tem
 
 ![](bme280.gif)
 
+
+## INA219
+
+26V 12bits I2C output digital power monitor
+
+![](ina219.gif)
+
+
+### NTC
+
+NTC thermistors, resistors with a negative temperature coefficient.
+
+![](ntc.gif)
+
+
+## sht21
+
+Digital humidity and temperature sensor.
+
+![](sht21.gif)
+
+
+## si7021
+
+I2C HUmiduty and temperature sensor.
+
+![](si7021.gif)
+
+
+
+## RTC
 
 ## DS1302
 
@@ -64,34 +115,6 @@ extremely accurate I²C real-time clock.
 ![](ds3231.gif)
 
 
-## INA219
-
-26V 12bits I2C output digital power monitor
-
-![](ina219.gif)
-
-
-## neopixel
-
-NeoPixel/WS2812 addressable LED.
-
-![](neopixel.gif)
-
-
-## MCP401x
-
-Single-channel, 7-bit, volatile digital potentiometer with I2C interface.
-
-![](mcp401x.gif)
-
-
-## NTC
-
-NTC thermistors, resistors with a negative temperature coefficient.
-
-![](ntc.gif)
-
-
 ## PCF8563
 
 Real-time clock/calendar.
@@ -99,22 +122,12 @@ Real-time clock/calendar.
 ![](pcf8563.gif)
 
 
-## sht21
 
-Digital humidity and temperature sensor.
+## Misc
 
-![](sht21.gif)
+## MCP401x
 
+Single-channel, 7-bit, volatile digital potentiometer with I2C interface.
 
-## si7021
+![](mcp401x.gif)
 
-I2C HUmiduty and temperature sensor.
-
-![](si7021.gif)
-
-
-## TM1637
-
-7-segment LED display.
-
-![](tm1637.gif)
