@@ -11,35 +11,35 @@ Please note that:
 
 ## Display
 
-## LCD1602
+### LCD1602
 
 LCD character 16x2 display
 
 ![](lcd1602.gif)
 
 
-## I2C LCD1602
+### I2C LCD1602
 
 A 16x2 (16 columns and 2 rows) liquid crystal display (LCD) using the I2C protocol.
 
 ![](i2c_lcd1620.gif)
 
 
-## LCD1602 bigfont
+### LCD1602 bigfont
 
 show big digitals in LCD1602
 
 ![](lcd1602_bigdigit.gif)
 
 
-## neopixel
+### neopixel
 
 NeoPixel/WS2812 addressable LED.
 
 ![](neopixel.gif)
 
 
-## TM1637
+### TM1637
 
 7-segment LED display.
 
@@ -49,21 +49,21 @@ NeoPixel/WS2812 addressable LED.
 
 ## Sensor
 
-## bmp280
+### bmp280
 
 Digital, barometric pressure sensor.
 
 ![](bmp280.gif)
 
 
-## bme280
+### bme280
 
 Humidity sensor measuring relative humidity, barometric pressure and ambient temperature.
 
 ![](bme280.gif)
 
 
-## INA219
+### INA219
 
 26V 12bits I2C output digital power monitor
 
@@ -77,14 +77,14 @@ NTC thermistors, resistors with a negative temperature coefficient.
 ![](ntc.gif)
 
 
-## sht21
+### sht21
 
 Digital humidity and temperature sensor.
 
 ![](sht21.gif)
 
 
-## si7021
+### si7021
 
 I2C HUmiduty and temperature sensor.
 
@@ -94,28 +94,28 @@ I2C HUmiduty and temperature sensor.
 
 ## RTC
 
-## DS1302
+### DS1302
 
 real-time clock/calendar with 31 bytes of RAM.
 
 ![](ds1302.gif)
 
 
-## DS1307
+### DS1307
 
 serial real-time clock.
 
 ![](ds1307.gif)
 
 
-## DS3231
+### DS3231
 
 extremely accurate I²C real-time clock.
 
 ![](ds3231.gif)
 
 
-## PCF8563
+### PCF8563
 
 Real-time clock/calendar.
 
@@ -125,7 +125,7 @@ Real-time clock/calendar.
 
 ## Misc
 
-## MCP401x
+### MCP401x
 
 Single-channel, 7-bit, volatile digital potentiometer with I2C interface.
 
