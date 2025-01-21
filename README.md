@@ -22,6 +22,13 @@ show big digitals in LCD1602
 ![](lcd1602_bigdigit.gif)
 
 
+## LCD1602
+
+LCD character 16x2 display
+
+![](lcd1602.gif)
+
+
 ## bmp280
 
 Digital, barometric pressure sensor.
