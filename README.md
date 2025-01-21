@@ -99,6 +99,13 @@ Digital humidity and temperature sensor.
 ![](sht21.gif)
 
 
+## si7021
+
+I2C HUmiduty and temperature sensor.
+
+![](si7021.gif)
+
+
 ## TM1637
 
 7-segment LED display.
