@@ -71,6 +71,13 @@ extremely accurate I²C real-time clock.
 ![](ina219.gif)
 
 
+## neopixel
+
+NeoPixel/WS2812 addressable LED.
+
+![](neopixel.gif)
+
+
 ## MCP401x
 
 Single-channel, 7-bit, volatile digital potentiometer with I2C interface.
