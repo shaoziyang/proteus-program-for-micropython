@@ -125,6 +125,11 @@ Real-time clock/calendar.
 
 ## Misc
 
+### buzzer
+
+![](buzzer.jpg)
+
+
 ### MCP401x
 
 Single-channel, 7-bit, volatile digital potentiometer with I2C interface.
