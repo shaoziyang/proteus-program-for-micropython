@@ -32,14 +32,14 @@ show big digitals in LCD1602
 ![](lcd1602_bigdigit.gif)
 
 
-## MAX7219
+### MAX7219
 
 compact, serial input/ouput common-cathode display driver.
 
 ![](max7219.gif)
 
 
-## MAX7219 x 4
+### MAX7219 x 4
 
 4 max7219 modules
 
@@ -76,6 +76,13 @@ Digital, barometric pressure sensor.
 Humidity sensor measuring relative humidity, barometric pressure and ambient temperature.
 
 ![](bme280.gif)
+
+
+### hcsr04
+
+HC-SR04 ultrasonic sensor modules.
+
+![](hcsr04.gif)
 
 
 ### INA219
