@@ -32,6 +32,21 @@ show big digitals in LCD1602
 ![](lcd1602_bigdigit.gif)
 
 
+## MAX7219
+
+compact, serial input/ouput common-cathode display driver.
+
+![](max7219.gif)
+
+
+## MAX7219 x 4
+
+4 max7219 modules
+
+![](max7219x4.gif)
+
+
+
 ### neopixel
 
 NeoPixel/WS2812 addressable LED.
