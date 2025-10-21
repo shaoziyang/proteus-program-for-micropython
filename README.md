@@ -64,6 +64,12 @@ NeoPixel/WS2812 addressable LED.
 
 ## Sensor
 
+### bmp180
+
+Digital, barometric pressure sensor.
+
+![](bmp180.gif)
+
 ### bmp280
 
 Digital, barometric pressure sensor.
