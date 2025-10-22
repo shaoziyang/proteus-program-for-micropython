@@ -46,6 +46,12 @@ compact, serial input/ouput common-cathode display driver.
 ![](max7219x4.gif)
 
 
+### I2C OLED 128x64
+
+I2C 接口 OLED 128x64 模块
+
+![](oled_12864_i2c.gif)
+
 
 ### neopixel
 
