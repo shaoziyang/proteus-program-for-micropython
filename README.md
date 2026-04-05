@@ -177,3 +177,9 @@ Single-channel, 7-bit, volatile digital potentiometer with I2C interface.
 
 ![](mcp401x.gif)
 
+
+### AT24C32
+
+2-Wire Serial EEPROM.
+
+![](at24c32.gif)
