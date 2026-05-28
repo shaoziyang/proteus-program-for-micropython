@@ -32,6 +32,13 @@ show big digitals in LCD1602
 ![](lcd1602_bigdigit.gif)
 
 
+### LCD1602_595
+
+Using 74hc595 to drive LCD1602, supporting SPI and GPIO modes, much faster than I2C.
+
+![](lcd1602_595.gif)
+
+
 ### MAX7219
 
 compact, serial input/ouput common-cathode display driver.
