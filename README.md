@@ -74,6 +74,13 @@ NeoPixel/WS2812 addressable LED.
 ![](neopixel.gif)
 
 
+### neopixel 16x16 matrix
+
+NeoPixel/WS2812 16x16 matrix display.
+
+![](n16x16_matrix.gif)
+
+
 ### TM1637
 
 7-segment LED display.
