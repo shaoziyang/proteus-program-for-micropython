@@ -199,6 +199,12 @@ Single-channel, 7-bit, volatile digital potentiometer with I2C interface.
 ![](at24c32.gif)
 
 
+### SingleLineDataTrans
+
+Transfer data through single GPIO.
+
+![](SingleLineDataTrans.gif)
+
 ### tinyGNSS
 
 A very compact and fast GNSS driver.
